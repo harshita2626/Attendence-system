@@ -1,0 +1,7 @@
+{
+  "name": "EduTrack Attendance System",
+  "description": "A comprehensive full-stack attendance management system with role-based access for students and teachers, featuring real-time insights, analytics, and automated reporting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
